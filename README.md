@@ -9,7 +9,7 @@ const tecnologias = {
   CSS: { definicao: "Linguagem de estilos" },
   JavaScript: { definicao: "Principal linguagem de programação" },
   Figma: { definicao: "Criação de Layouts" },
-  Git: { definicao: Versionamento de arquivos}
+  Git: { definicao: "Versionamento de arquivos" }
 }
 ```
 
