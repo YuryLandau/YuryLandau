@@ -3,15 +3,15 @@
 Venho aqui apresentar alguns de meus status a vocês.
 
 Em resumo, atualmente tenho concentrando meus aprendizados nas seguintes tecnologias: 
-
---const tecnologias = {
+```
+const tecnologias = {
   HTML: { definicao: "Linguagem de marcação de hipertexto" },
   CSS: { definicao: "Linguagem de estilos" },
   JavaScript: { definicao: "Principal linguagem de programação" },
   Figma: { definicao: "Criação de Layouts" },
   Git: { definicao: Versionamento de arquivos}
 }
-
+```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuryLandau)](https://github.com/YuryLandau/github-readme-stats)
 
