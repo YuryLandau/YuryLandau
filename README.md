@@ -3,11 +3,11 @@
 Venho aqui apresentar alguns de meus status a vocês.
 
 Em resumo, atualmente tenho concentrando meus aprendizados nas seguintes tecnologias: 
-- _HTML_ - Linguagem de marcação de hipertexto
-- _CSS_ - Linguagem de estilos
-- _JavaScript_ - Principal linguagem de programação
-- _Figma_ - Criação de Layouts
-- _Git_ - Versionamento de arquivos
+- __HTML__ - Linguagem de marcação de hipertexto
+- __CSS__ - Linguagem de estilos
+- __JavaScript__ - Principal linguagem de programação
+- __Figma__ - Criação de Layouts
+- __Git__ - Versionamento de arquivos
 
 Em minha máquina local, também realizei diversos experimentos com outras ferramentas: 
 - Banco de Dados: MySQL
