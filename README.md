@@ -4,11 +4,13 @@ Venho aqui apresentar alguns de meus status a vocês.
 
 Em resumo, atualmente tenho concentrando meus aprendizados nas seguintes tecnologias: 
 ```
-- __HTML__ - Linguagem de marcação de hipertexto
-- __CSS__ - Linguagem de estilos
-- __JavaScript__ - Principal linguagem de programação
-- __Figma__ - Criação de Layouts
-- __Git__ - Versionamento de arquivos
+const tecnologias = {
+  HTML: { definicao: "Linguagem de marcação de hipertexto" },
+  CSS: { definicao: "Linguagem de estilos" },
+  JavaScript: { definicao: "Principal linguagem de programação" },
+  Figma: { definicao: "Criação de Layouts" },
+  Git: { definicao: Versionamento de arquivos}
+}
 ```
 
 Em minha máquina local, também realizei diversos experimentos com outras ferramentas: 
