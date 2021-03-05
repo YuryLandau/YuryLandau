@@ -14,7 +14,7 @@ Em minha máquina local, também realizei diversos experimentos com outras ferra
 - Blender
 - C
 - C++
-- Excel
+- __Excel__
 - JAVA
 - Insomnia
 - Photoshop
