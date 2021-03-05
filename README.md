@@ -10,7 +10,7 @@ Em resumo, atualmente tenho concentrando meus aprendizados nas seguintes tecnolo
 - __Git__ - Versionamento de arquivos
 
 Em minha máquina local, também realizei diversos experimentos com outras ferramentas: 
-- Banco de Dados: __MySQ
+- Banco de Dados: __MySQ__
 - Blender
 - C
 - C++
@@ -19,8 +19,8 @@ Em minha máquina local, também realizei diversos experimentos com outras ferra
 - Insomnia
 - Photoshop
 - Python
-- __React
-- __SASS
+- __React__
+- __SASS__
 - Unity
 
 Nesta conta pretendo expor principalmente meus trabalhos cujas tecnologias são meu foco, além de postar, periódicamente, experimentos de menor escala com outras tecnologias.
