@@ -3,7 +3,7 @@
 Venho aqui apresentar alguns de meus status a vocês.
 
 Em resumo, atualmente tenho concentrando meus aprendizados nas seguintes tecnologias: 
---
+```
 const tecnologias = {
   HTML: { definicao: "Linguagem de marcação de hipertexto" },
   CSS: { definicao: "Linguagem de estilos" },
@@ -11,7 +11,7 @@ const tecnologias = {
   Figma: { definicao: "Criação de Layouts" },
   Git: { definicao: Versionamento de arquivos}
 }
---
+```
 
 Em minha máquina local, também realizei diversos experimentos com outras ferramentas: 
 - Banco de Dados: __MySQ__
