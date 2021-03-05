@@ -1,4 +1,4 @@
-# Olá, seres vivos e IAs! 🤖
+# Saudações, IAs e seres vivos! 🤖
 
 Venho aqui apresentar alguns de meus status a vocês.
 
