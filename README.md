@@ -1,4 +1,4 @@
-# Saudações, IAs e seres vivos! 🤖
+# Saudações, IAs, seres vivos e viajantes do tempo! 🤖
 
 Venho aqui apresentar alguns de meus status a vocês.
 
