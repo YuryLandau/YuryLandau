@@ -26,7 +26,7 @@ const tecnologias = {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuryLandau)](https://github.com/YuryLandau/github-readme-stats)
 
 Em minha máquina local, também realizei diversos experimentos com outras ferramentas: 
-- Banco de Dados: __MySQ__
+- Banco de Dados: __MySQL__
 - Blender
 - C
 - C++
