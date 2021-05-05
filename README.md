@@ -30,9 +30,10 @@ Em minha máquina local, também realizei diversos experimentos com outras ferra
 - Blender
 - C
 - C++
-- __Excel__
+- Excel
 - JAVA
 - Insomnia
+- __NodeJS__
 - Photoshop
 - Python
 - __React__
