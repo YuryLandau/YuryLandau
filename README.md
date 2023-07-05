@@ -30,18 +30,22 @@ const tecnologias = {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuryLandau)](https://github.com/YuryLandau/github-readme-stats) 
 
 Em minha máquina local, também realizei diversos experimentos com outras ferramentas: 
-- Banco de Dados: __MySQL__
+- Banco de Dados: MySQL, __MongoDB__
 - Blender
 - C
 - C++
+- Desktop Apps: __Tauri__ (Rust)
 - Excel
 - JAVA
 - Insomnia
-- __NodeJS__
+- NodeJS
+- __NextJS__
 - Photoshop
 - Python
 - __React__
-- __SASS__
+- __Rust__
+- SASS
+- __Styled Components__
 - Unity
 
 Nesta conta pretendo expor principalmente meus trabalhos cujas tecnologias são meu foco, além de postar, periódicamente, experimentos de menor escala com outras tecnologias.
