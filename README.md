@@ -3,7 +3,7 @@
 Venho aqui apresentar alguns de meus status a vocês.
   <p align="center">My DevCard</p>  
 <p align="center">
-<a href="https://app.daily.dev/YuryLandau"  style="background-color: red"><img src="https://api.daily.dev/devcards/23c4802a6c3e4449a196cf3a07e82a6d.png?r=nui" width="400" alt="Yury Landau van Putten's Dev Card"/></a>
+<a href="https://app.daily.dev/YuryLandau"  style="background-color: red"><img src="https://github.com/YuryLandau/YuryLandau/blob/master/devcard.svg"" width="400" alt="Yury Landau van Putten's Dev Card"/></a>
 </p>
 
 Em resumo, atualmente tenho concentrando meus aprendizados nas seguintes tecnologias: 
