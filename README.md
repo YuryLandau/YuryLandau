@@ -9,25 +9,27 @@ Venho aqui apresentar alguns de meus status a vocês.
 Em resumo, atualmente tenho concentrando meus aprendizados nas seguintes tecnologias: 
 
 ```json
-const tecnologias = {
-  HTML: { 
-    definicao: "Linguagem de marcação de hipertexto" 
-  },
-  CSS: { 
-    "definicao": "Linguagem de estilos" 
-  },
-  "JavaScript": {
-    "definicao": "Principal linguagem de programação para desenvolvimento web front-end",
-    "frameworks": {
-      "reactJS": "Famosa ferramenta de componentização para JavaScript",
-      "nextJS": "Poderoso framwork que adiciona inúmeras funcionalidades ao React, como a de gerenciar a renderização da aplicação entre o Servidor e o Cliente."
+{
+  "tecnologias": {
+    "html": { 
+      "definicao": "Linguagem de marcação de hipertexto" 
+    },
+    "css": { 
+      "definicao": "Linguagem de estilos" 
+    },
+    "javascript": {
+      "definicao": "Principal linguagem de programação para desenvolvimento web front-end",
+      "frameworks": {
+        "reactJS": "Famosa ferramenta de componentização para JavaScript",
+        "nextJS": "Poderoso framwork que adiciona inúmeras funcionalidades ao React, como a de gerenciar a renderização da aplicação entre o Servidor e o Cliente."
+      }
+    },
+    "figma": { 
+      "definicao": "Criação de Layouts" 
+    },
+    "git": { 
+      "definicao": "Versionamento de arquivos" 
     }
-  },
-  Figma: { 
-    definicao: "Criação de Layouts" 
-  },
-  Git: { 
-    definicao: "Versionamento de arquivos" 
   }
 }
 ```
