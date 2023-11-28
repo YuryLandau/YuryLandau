@@ -14,9 +14,13 @@ const tecnologias = {
     definicao: "Linguagem de marcação de hipertexto" 
   },
   CSS: { 
-    definicao: "Linguagem de estilos" 
+    "definicao": "Linguagem de estilos" 
   },
-  JavaScript: { 
+  "JavaScript": {
+    "Frameworks": {
+      "ReactJS": "Famosa ferramenta de componentização para JavaScript",
+      "NextJS": "Poderoso framwork que adiciona inúmeras funcionalidades ao React, como a de gerenciar a renderização da aplicação entre o Servidor e o Cliente."
+    }
     definicao: "Principal linguagem de programação" 
   },
   Figma: { 
