@@ -12,24 +12,23 @@ Em resumo, atualmente tenho concentrando meus aprendizados nas seguintes tecnolo
 {
   "tecnologias": {
     "html": { 
-      "definicao": "Linguagem de marcação de hipertexto" 
+      "definicao": "Linguagem de marcação de hipertexto." 
     },
     "css": { 
-      "definicao": "Linguagem de estilos" 
+      "definicao": "Linguagem de estilos." 
     },
     "javascript": {
-      "definicao": "Principal linguagem de programação para desenvolvimento web front-end",
+      "definicao": "Principal linguagem de programação para desenvolvimento web front-end.",
       "frameworks": {
-        "reactJS": "Famosa ferramenta de componentização para JavaScript",
-        "nextJS": "Poderoso framwork que adiciona inúmeras funcionalidades ao React,
-como a de gerenciar a renderização da aplicação entre o Servidor e o Cliente."
+        "reactJS": "Famosa ferramenta de componentização para JavaScript.",
+        "nextJS": "Poderoso framwork que adiciona inúmeras funcionalidades ao React."
       }
     },
     "figma": { 
-      "definicao": "Criação de Layouts" 
+      "definicao": "Criação de Layouts." 
     },
     "git": { 
-      "definicao": "Versionamento de arquivos" 
+      "definicao": "Versionamento de arquivos." 
     }
   }
 }
