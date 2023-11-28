@@ -21,7 +21,7 @@ Em resumo, atualmente tenho concentrando meus aprendizados nas seguintes tecnolo
       "definicao": "Principal linguagem de programação para desenvolvimento web front-end",
       "frameworks": {
         "reactJS": "Famosa ferramenta de componentização para JavaScript",
-        "nextJS": "Poderoso framwork que adiciona inúmeras funcionalidades ao React, como a de gerenciar a renderização da aplicação entre o Servidor e o Cliente."
+        "nextJS": "Poderoso framwork que adiciona inúmeras funcionalidades ao React, como a de gerenciar a \nrenderização da aplicação entre o Servidor e o Cliente."
       }
     },
     "figma": { 
