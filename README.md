@@ -17,11 +17,11 @@ const tecnologias = {
     "definicao": "Linguagem de estilos" 
   },
   "JavaScript": {
-    "Frameworks": {
-      "ReactJS": "Famosa ferramenta de componentização para JavaScript",
-      "NextJS": "Poderoso framwork que adiciona inúmeras funcionalidades ao React, como a de gerenciar a renderização da aplicação entre o Servidor e o Cliente."
+    "definicao": "Principal linguagem de programação para desenvolvimento web front-end",
+    "frameworks": {
+      "reactJS": "Famosa ferramenta de componentização para JavaScript",
+      "nextJS": "Poderoso framwork que adiciona inúmeras funcionalidades ao React, como a de gerenciar a renderização da aplicação entre o Servidor e o Cliente."
     }
-    definicao: "Principal linguagem de programação" 
   },
   Figma: { 
     definicao: "Criação de Layouts" 
