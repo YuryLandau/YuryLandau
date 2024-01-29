@@ -1,6 +1,6 @@
-# 👋 Welcome to My Profile!
+# 👋 Greetings, AIs, living beings, and time travelers!!
 
-I'm Yury Landau, a passionate Front-End developer dedicated to crafting captivating digital experiences.
+I'm Yury Landau, a passionate Front-End Software Developer dedicated to crafting captivating digital experiences.
 
 ## 🚀 About Me
 
@@ -16,7 +16,7 @@ I'm Yury Landau, a passionate Front-End developer dedicated to crafting captivat
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](stats_link)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Connect With Me
 
