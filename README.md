@@ -1,4 +1,4 @@
-# 👋 Greetings, AIs, living beings, and time travelers!!
+# 👋 Greetings, [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=General+Sans&pause=1000&color=A21CAF&background=18001A&width=320&lines=Organic+beings!;Time+travelers!;+Artificial+Intelligences!)](https://git.io/typing-svg)
 
 I'm Yury Landau, a passionate Front-End Software Developer dedicated to crafting captivating digital experiences.
 
@@ -16,11 +16,12 @@ I'm Yury Landau, a passionate Front-End Software Developer dedicated to crafting
 
 ## 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuryLandau&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuryLandau&layout=compact&bg_color=18001a&border_color=A21CAF&title_color=A21CAF&text_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/yury-landau-van-putten/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://landauwebvisuals.tech)
 
-- LinkedIn: [Yury Landau](https://www.linkedin.com/in/yury-landau-van-putten/)
 ---
 
 ⭐️ Let's explore the possibilities the world of development has to offer together! ⭐️
