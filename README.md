@@ -19,7 +19,7 @@ I'm Yury Landau, a passionate Full Stack Software Developer dedicated to craftin
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuryLandau&layout=compact&bg_color=18001a&border_color=A21CAF&title_color=A21CAF&text_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/yury-landau-van-putten/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)]([https://www.linkedin.com/in/yury-landau-van-putten/](https://www.linkedin.com/in/yury-landau-van-putten-fullstack/))
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://landau.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YuryLandau)
 
